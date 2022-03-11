@@ -1,0 +1,70 @@
+body {
+background-color: #FAEBD7;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark li a{
+font-size: 2rem;
+margin-left: 20px;
+margin-right: 20px;
+color: white;
+}
+h1 {
+font-family: 'Montserrat-black';
+font-size: 3rem;
+line-height: 2;
+
+}
+h2 {
+font-size: 2rem;
+color: green-;
+line-height: 2;
+}
+
+.intro {
+text-align: center;
+}
+.row {
+text-align: center;
+width: 25%;
+margin: 50px auto 0 auto;
+font-size: 20px;
+
+}
+
+.row_tasks {
+text-align: center;
+margin-top: 150px;
+font-size: 4rem;
+}
+.add-sign {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+}
+.page-heading{
+text-align: center;
+}
+.row-new{
+width: 45%;
+margin: 100px auto 0 auto;
+font-size: 20px;
+}
+.ee{
+text-decoration: none;
+color: white;
+}
+.ee:hover{
+color: white;
+}
+.task-title{
+font-family: cursive;
+color: black;
+margin-top: 30px;
+margin-left: 30px;
+text-decoration: none;
+}
+.sign{
+text-decoration: none;
+font-size: 2rem;
+color: #d64161;
+}
